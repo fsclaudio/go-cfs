@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/devfullcycle/go-intensivo-jul/internal/entity"
+import "https://github.com/fsclaudio/go-cfs/internal/entity"
 
 type OrderInput struct {
 	ID    string

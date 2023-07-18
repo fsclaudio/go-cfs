@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/devfullcycle/go-intensivo-jul/internal/infra/database"
-	"github.com/devfullcycle/go-intensivo-jul/internal/usecase"
 	_ "github.com/mattn/go-sqlite3"
+	"https://github.com/fsclaudio/go-cfs/infra/database"
+	"https://github.com/fsclaudio/go-cfs/internal/usecase"
 )
 
 func main() {

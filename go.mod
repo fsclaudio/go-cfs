@@ -1,4 +1,4 @@
-module github.com/devfullcycle/go-intensivo-jul
+module github.com/fsclaudio/go-cfs
 
 go 1.20
 
